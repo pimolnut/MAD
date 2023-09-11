@@ -1,0 +1,125 @@
+2023-09-08 12:22:37,221 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 569935720 Bytes (1073741824)
+2023-09-08 12:22:37,485 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-08 12:22:37,485 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-08 12:22:37,485 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-08 12:22:37,485 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-08 12:22:37,485 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2023-09-08 12:22:37,486 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-08 12:22:37,488 [INFO] CodeGenerator:799 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.9.0.202307051724//db/
+2023-09-08 12:22:37,705 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/license.tmp_save
+2023-09-08 12:22:37,951 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/license.tmp
+2023-09-08 12:22:37,977 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/gpio.c_save
+2023-09-08 12:22:38,070 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/gpio.c
+2023-09-08 12:22:38,073 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/gpio.h_save
+2023-09-08 12:22:38,146 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/gpio.h
+2023-09-08 12:22:38,239 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/cortex.tmp_save
+2023-09-08 12:22:38,345 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/cortex.tmp
+2023-09-08 12:22:38,353 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/usart.c_save
+2023-09-08 12:22:38,487 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/usart.c
+2023-09-08 12:22:38,491 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/usart.h_save
+2023-09-08 12:22:38,555 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/usart.h
+2023-09-08 12:22:38,563 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_it.c_save
+2023-09-08 12:22:38,911 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_it.c
+2023-09-08 12:22:38,914 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_it.h_save
+2023-09-08 12:22:38,972 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_it.h
+2023-09-08 12:22:38,991 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_hal_msp.c_save
+2023-09-08 12:22:39,074 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_hal_msp.c
+2023-09-08 12:22:39,076 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/system.tmp_save
+2023-09-08 12:22:39,133 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/system.tmp
+2023-09-08 12:22:39,137 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_hal_conf.h_save
+2023-09-08 12:22:39,200 [INFO] CodeEngine:335 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_hal_conf.h
+2023-09-08 12:22:39,214 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/main.h_save
+2023-09-08 12:22:39,289 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/main.h
+2023-09-08 12:22:39,291 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/main.c_save
+2023-09-08 12:22:39,373 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/main.c
+2023-09-08 12:22:39,910 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 137mS.
+2023-09-08 12:22:39,912 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-08 12:22:40,138 [INFO] ConfigFileManager:1457 - The Die is : DIE451
+2023-09-08 12:22:41,501 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1589mS.
+2023-09-08 12:22:41,502 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-08 12:22:41,504 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-08 19:29:19,019 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,496x477,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-08 19:29:34,051 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-08 19:29:49,208 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 625851320 Bytes (1073741824)
+2023-09-08 19:29:53,859 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 617370128 Bytes (1073741824)
+2023-09-08 19:29:54,019 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-08 19:29:54,019 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-08 19:29:54,019 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-08 19:29:54,019 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-08 19:29:54,019 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2023-09-08 19:29:54,020 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-08 19:29:54,021 [INFO] CodeGenerator:799 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.9.0.202307051724//db/
+2023-09-08 19:29:54,183 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/license.tmp_save
+2023-09-08 19:29:54,322 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/license.tmp
+2023-09-08 19:29:54,337 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/gpio.c_save
+2023-09-08 19:29:54,393 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/gpio.c
+2023-09-08 19:29:54,395 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/gpio.h_save
+2023-09-08 19:29:54,449 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/gpio.h
+2023-09-08 19:29:54,498 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/cortex.tmp_save
+2023-09-08 19:29:54,560 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/cortex.tmp
+2023-09-08 19:29:54,565 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/usart.c_save
+2023-09-08 19:29:54,643 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/usart.c
+2023-09-08 19:29:54,646 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/usart.h_save
+2023-09-08 19:29:54,694 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/usart.h
+2023-09-08 19:29:54,701 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_it.c_save
+2023-09-08 19:29:54,862 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_it.c
+2023-09-08 19:29:54,866 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_it.h_save
+2023-09-08 19:29:54,916 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_it.h
+2023-09-08 19:29:54,931 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_hal_msp.c_save
+2023-09-08 19:29:55,027 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_hal_msp.c
+2023-09-08 19:29:55,029 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/system.tmp_save
+2023-09-08 19:29:55,083 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/system.tmp
+2023-09-08 19:29:55,087 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_hal_conf.h_save
+2023-09-08 19:29:55,143 [INFO] CodeEngine:335 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_hal_conf.h
+2023-09-08 19:29:55,155 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/main.h_save
+2023-09-08 19:29:55,217 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/main.h
+2023-09-08 19:29:55,220 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/main.c_save
+2023-09-08 19:29:55,289 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/main.c
+2023-09-08 19:29:55,747 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 133mS.
+2023-09-08 19:29:55,750 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-08 19:29:56,100 [INFO] ConfigFileManager:1457 - The Die is : DIE451
+2023-09-08 19:29:56,967 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1217mS.
+2023-09-08 19:29:56,968 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-08 19:29:56,969 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-08 19:30:20,004 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-08 19:30:31,516 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 793548520 Bytes (1073741824)
+2023-09-08 19:30:33,852 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 641737072 Bytes (1073741824)
+2023-09-08 19:30:34,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-08 19:30:34,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-08 19:30:34,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-08 19:30:34,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-08 19:30:34,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2023-09-08 19:30:34,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-08 19:30:34,002 [INFO] CodeGenerator:799 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.9.0.202307051724//db/
+2023-09-08 19:30:34,148 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/license.tmp_save
+2023-09-08 19:30:34,201 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/license.tmp
+2023-09-08 19:30:34,218 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/gpio.c_save
+2023-09-08 19:30:34,291 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/gpio.c
+2023-09-08 19:30:34,293 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/gpio.h_save
+2023-09-08 19:30:34,342 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/gpio.h
+2023-09-08 19:30:34,391 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/cortex.tmp_save
+2023-09-08 19:30:34,439 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/cortex.tmp
+2023-09-08 19:30:34,442 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/usart.c_save
+2023-09-08 19:30:34,541 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/usart.c
+2023-09-08 19:30:34,544 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/usart.h_save
+2023-09-08 19:30:34,593 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/usart.h
+2023-09-08 19:30:34,599 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_it.c_save
+2023-09-08 19:30:34,665 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_it.c
+2023-09-08 19:30:34,667 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_it.h_save
+2023-09-08 19:30:34,715 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_it.h
+2023-09-08 19:30:34,729 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_hal_msp.c_save
+2023-09-08 19:30:34,795 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/stm32f7xx_hal_msp.c
+2023-09-08 19:30:34,796 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/system.tmp_save
+2023-09-08 19:30:34,842 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/MXTmpFiles/system.tmp
+2023-09-08 19:30:34,845 [INFO] CodeEngine:311 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_hal_conf.h_save
+2023-09-08 19:30:34,900 [INFO] CodeEngine:335 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/stm32f7xx_hal_conf.h
+2023-09-08 19:30:34,911 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/main.h_save
+2023-09-08 19:30:34,964 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Inc/main.h
+2023-09-08 19:30:34,966 [INFO] CodeEngine:255 - oldGeneratedFile, /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/main.c_save
+2023-09-08 19:30:35,035 [INFO] CodeEngine:279 - Generated code: /Users/pimolnutsriphadej/Desktop/LABCHALLENGE/lab5challange/Core/Src/main.c
+2023-09-08 19:30:35,455 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 119mS.
+2023-09-08 19:30:35,457 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-08 19:30:35,726 [INFO] ConfigFileManager:1457 - The Die is : DIE451
+2023-09-08 19:30:36,760 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1303mS.
+2023-09-08 19:30:36,760 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-08 19:30:36,761 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
